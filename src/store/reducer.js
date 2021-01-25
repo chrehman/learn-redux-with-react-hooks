@@ -1,4 +1,3 @@
-import userEvent from "@testing-library/user-event";
 import { INCREMENT, DECREMENT, INCREMENT_BY_VALUE,DECREMENT_BY_VALUE } from "./action";
 
 const initialState = {
